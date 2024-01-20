@@ -18,7 +18,7 @@ public class CicdApplication {
 	@GetMapping("/message")
 	public String getMessage() {
 
-		return "Life is Beautiful,Don't ruin it. Be your own boss";
+		return "Life is Beautiful,Don't ruin it.";
 
 	}
 
